@@ -8,6 +8,10 @@ This project is based on the
 course [Spring Boot by telusko](https://www.udemy.com/course/spring-boot-2-with-spring-5/learn/lecture/43034394#questions/21684268)
 by [Telusko](https://www.udemy.com/user/telusko/).
 
+To be able to run this project, you will need to create your own OAuth client
+at https://console.cloud.google.com/apis/credentials?project=myspringprojectdemo1&supportedpurview=project
+and place the client id and client secret in the application.properties file.
+
 ## Project Properties
 
 * `spring-boot.version`: 2.7.5
